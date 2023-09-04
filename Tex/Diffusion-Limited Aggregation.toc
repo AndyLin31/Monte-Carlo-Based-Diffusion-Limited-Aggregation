@@ -1,0 +1,21 @@
+\contentsline {section}{\numberline {1}Introduction}{3}{section.1}%
+\contentsline {subsection}{\numberline {1.1}The History of Diffusion-Limited Aggregation}{3}{subsection.1.1}%
+\contentsline {subsection}{\numberline {1.2}Different Types of DLA}{3}{subsection.1.2}%
+\contentsline {section}{\numberline {2}Introduction to the Model}{3}{section.2}%
+\contentsline {subsection}{\numberline {2.1}Description of the Model}{3}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}Python Code Implementation Structure}{4}{subsection.2.2}%
+\contentsline {section}{\numberline {3}Simulation of the DLA in Square Lattice}{5}{section.3}%
+\contentsline {subsection}{\numberline {3.1}2-Dimensional with Adjacent Sticking}{5}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}Adjacent Sticking \#Prob.=100\% [Task (a)]}{5}{subsubsection.3.1.1}%
+\contentsline {subsubsection}{\numberline {3.1.2}Adjacent Sticking \#Prob.=30\% [Task (b)]}{6}{subsubsection.3.1.2}%
+\contentsline {subsubsection}{\numberline {3.1.3}Density Distribution \& Dimension Analysis [Task (c)(d)]}{6}{subsubsection.3.1.3}%
+\contentsline {subsubsection}{\numberline {3.1.4}Dimension Analysis with the Change of Adjacent Sticking Probability}{8}{subsubsection.3.1.4}%
+\contentsline {subsubsection}{\numberline {3.1.5}Discussion about the Removing Range}{8}{subsubsection.3.1.5}%
+\contentsline {subsection}{\numberline {3.2}2-Dimensional with Distant Sticking}{10}{subsection.3.2}%
+\contentsline {subsection}{\numberline {3.3}2-Dimensional with Modified Initial Clustering}{11}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}Difference Shapes of the Initial Clustering}{11}{subsubsection.3.3.1}%
+\contentsline {subsection}{\numberline {3.4}2-Dimensional with Inconsistent Probability to Differernt Directions}{12}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}$P_{down} = 0.1$, $Others = 0.3$}{12}{subsubsection.3.4.1}%
+\contentsline {subsubsection}{\numberline {3.4.2}$P_{up \& down} = 0.1$, $Others = 0.4$}{12}{subsubsection.3.4.2}%
+\contentsline {section}{\numberline {4}Simulation of the DLA in Triangular Lattice}{13}{section.4}%
+\contentsline {section}{\numberline {5}References}{14}{section.5}%
