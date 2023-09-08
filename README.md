@@ -1,4 +1,4 @@
-# Monte-Carlo-Based-Diffusion-Limited-Aggregation
+# HKUST PHYS3142 Course Project Monte-Carlo-Based-Diffusion-Limited-Aggregation
 In this article, we’ve discussed about the Diffusion-Limited Aggregation Model in difference circumstances, including
 the modification of the adjacent sticking probability. The dimension of the clustering is studied via the linear regression.
 The aggregates formed in DLA have been found to exhibit uniform density with fractal dimension of about 1.7 in two
